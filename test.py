@@ -6,7 +6,7 @@ from pandas import DataFrame
 import requests
 from bs4 import BeautifulSoup
 
-
+print('test')
 url = 'http://isin.twse.com.tw/isin/C_public.jsp?strMode=2'
 #Save_name = 'CollectedStock.xlsx'
 Save_name = ''
